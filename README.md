@@ -18,4 +18,4 @@ You can generate a report using one of the following command in terminal or comm
     - allure generate target/allure-results --clean -o allure-report
 
 ## Sample Report
-![img.png](Test Execution Allure Report)
+![Test Execution Allure Report](https://github.com/usmankhan00/web-automation-demo/blob/main/img.png)
