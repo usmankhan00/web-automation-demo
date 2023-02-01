@@ -17,3 +17,5 @@ Open terminal (MAC OSX) or command prompt / power shell (for windows OS) and nav
 You can generate a report using one of the following command in terminal or command prompt.
     - allure generate target/allure-results --clean -o allure-report
 
+## Sample Report
+![img.png](Test Execution Allure Report)
