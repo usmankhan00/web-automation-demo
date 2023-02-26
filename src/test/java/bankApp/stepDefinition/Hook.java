@@ -18,7 +18,6 @@ import java.io.IOException;
 /**
  * This class is execute before start of execution of feature file
  * using @before and execute after end of execution of feature file
- * using @After in ECM 6.5.
  */
 public class Hook extends CommonUtils {
 
